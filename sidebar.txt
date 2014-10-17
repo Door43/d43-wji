@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[wji:home|Door43 (wji)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-wji|d43-wji repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-wji/archive/master.zip|d43-wji.zip]]
+
+**Recent Changes**
+{{changes>ns = wji}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/wji|Ethnologue data]]
+
